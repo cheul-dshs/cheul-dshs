@@ -27,3 +27,10 @@ Additionally, I am working on creating and maintaining a well-structured system 
 To provide high-quality education to my students, I have been studying and working with various tools and technologies, including 3D design, 3D printing, woodworking, CNC machines, laser cutting machines, Arduino, Raspberry Pi, and other resources essential for making.
 
 I am also personally interested in artificial intelligence, machine learning, deep learning and continually explore these fields to further expand my knowledge and skills.
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
