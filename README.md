@@ -18,7 +18,13 @@ Here are some ideas to get you started:
 -->
 
 Hi there! Welcome to my GitHub.
+
 My name is 김승철, and I am a Maker Teacher at Daegu Science High School.
-I am currently focused on developing an innovative and engaging Maker Course program that goes beyond the clichés often seen in other schools over the past few years. Additionally, I am working on creating and maintaining a well-structured system to enhance the overall effectiveness of the Maker Course.
+
+I am currently focused on developing an innovative and engaging Maker Course program that goes beyond the clichés often seen in other schools over the past few years. 
+
+Additionally, I am working on creating and maintaining a well-structured system to enhance the overall effectiveness of the Maker Course.
+
 To provide high-quality education to my students, I have been studying and working with various tools and technologies, including 3D design, 3D printing, woodworking, CNC machines, laser cutting machines, Arduino, Raspberry Pi, and other resources essential for making.
+
 I am also personally interested in artificial intelligence and deep learning and continually explore these fields to further expand my knowledge and skills.
