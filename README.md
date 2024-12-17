@@ -30,7 +30,7 @@ I am also personally interested in artificial intelligence, machine learning, de
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dshs_logo.JPG" width=450 >
-  <source media="(prefers-color-scheme: light)" srcset="dshs_logo.JPG" width=450 >
-  <img alt="shows the dshs img" src="dshs_logo.JPG" width=450 >
+  <source media="(prefers-color-scheme: dark)" srcset="dshs_logo.JPG" width=350 >
+  <source media="(prefers-color-scheme: light)" srcset="dshs_logo.JPG" width=350 >
+  <img alt="shows the dshs img" src="dshs_logo.JPG" width=350 >
 </picture>
