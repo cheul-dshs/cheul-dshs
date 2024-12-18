@@ -26,7 +26,7 @@ Additionally, I am working on creating and maintaining a well-structured system 
 
 To provide high-quality education to my students, I have been studying and working with various tools and technologies, including 3D design, 3D printing, woodworking, CNC machines, laser cutting machines, Arduino, Raspberry Pi, and other resources essential for making.
 
-I am also personally interested in artificial intelligence, machine learning, and deep learning and continually explore these fields to further expand my knowledge and skills.
+I am also personally interested in Artificial Intelligence, Machine Learning, and Deep Learning and continually explore these fields to further expand my knowledge and skills.
 
 
 
