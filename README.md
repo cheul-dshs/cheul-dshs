@@ -11,8 +11,6 @@ To provide high-quality education to my students, I have been studying and worki
 I am also personally interested in Artificial Intelligence, Machine Learning, and Deep Learning and continually explore these fields to further expand my knowledge and skills.
 
 
-### Logo
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dshs_logo.JPG" width=350 >
   <source media="(prefers-color-scheme: light)" srcset="dshs_logo.JPG" width=350 >
