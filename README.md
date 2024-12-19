@@ -1,4 +1,4 @@
-## Hi there! Welcome to my GitHub.
+### Hi there! Welcome to my GitHub.
 
 My name is 김승철, and I am a Maker Teacher at Daegu Science High School.
 
@@ -11,6 +11,7 @@ To provide high-quality education to my students, I have been studying and worki
 I am also personally interested in Artificial Intelligence, Machine Learning, and Deep Learning and continually explore these fields to further expand my knowledge and skills.
 
 
+### Logo
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dshs_logo.JPG" width=350 >
