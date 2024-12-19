@@ -1,6 +1,6 @@
 ## **_Hi there! Welcome to my GitHub._**
 
-My name is 김승철, and I am a Maker Teacher at [Daegu Science High School](https://pages.github.com).
+My name is 김승철, and I am a Maker Teacher at [Daegu Science High School](https://dshs.dge.hs.kr/dshsh/main.do).
 
 I am currently focused on developing an innovative and engaging Maker Course program that goes beyond the clichés often seen in other schools over the past few years. 
 
