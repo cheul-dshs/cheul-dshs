@@ -1,4 +1,4 @@
-## **Hi there! Welcome to my GitHub.**
+## **_Hi there! Welcome to my GitHub._**
 
 My name is 김승철, and I am a Maker Teacher at Daegu Science High School.
 
