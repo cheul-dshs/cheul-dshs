@@ -8,7 +8,7 @@ To provide high-quality education to my students, I have been studying and worki
 
 I am also personally interested in Artificial Intelligence, Machine Learning, and Deep Learning and continually explore these fields to further expand my knowledge and skills.
 
-Feel free to contact me at cheul1987@ts.hs.kr if you have any questions about the Maker course or would like to discuss shared interests. 
+Feel free to contact me at cheul1987@ts.hs.kr if you have any questions about the Maker Course or would like to discuss shared interests. 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dshs_logo.JPG" width=350 >
